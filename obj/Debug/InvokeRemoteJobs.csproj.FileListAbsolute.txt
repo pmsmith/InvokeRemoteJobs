@@ -1,0 +1,9 @@
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\bin\Debug\InvokeRemoteJobs.exe.config
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\bin\Debug\InvokeRemoteJobs.exe
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\bin\Debug\InvokeRemoteJobs.pdb
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.csprojAssemblyReference.cache
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.Properties.Resources.resources
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.csproj.GenerateResource.cache
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.csproj.CoreCompileInputs.cache
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.exe
+C:\Users\champ\Desktop\GITHUB\InvokeRemoteJobs\InvokeRemoteJobs\InvokeRemoteJobs\obj\Debug\InvokeRemoteJobs.pdb
