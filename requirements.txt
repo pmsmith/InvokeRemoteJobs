@@ -1,0 +1,12 @@
+#-- RemoteJobRunner Requirements
+
+- MVP Features 
+    * execute remote powershell job against a group of servers
+    * securely uses credentials to connect to sessions 
+    * manages closing of sessions 
+    * multithreaded execution of jobs
+    * stores history of commands (can be local)
+    * stores history of results (can be local)
+
+- "Nice to have" Features
+    * pull credentials from credential manager 
